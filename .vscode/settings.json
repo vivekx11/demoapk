@@ -1,0 +1,12 @@
+{
+  "flutter.sdkPath": "path/to/flutter",
+  "dart.flutterSdkPath": "path/to/flutter",
+  "editor.formatOnSave": true,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
